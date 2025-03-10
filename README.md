@@ -31,4 +31,4 @@ PgAdmin is intended to be used alongside PostgreSQL as its management tool. For 
 ![PGAdmin Register Server](https://github.com/EmersonDeltaV/pgadmin/blob/main/assets/postgres_connection.png?raw=true)
 
 ## Supported Applications in the Marketplace
-PostgreSQL is commonly used as a database for a number of web applications. Keep posted on this list as more marketplace apps that are supported by PostgreSQL are added.
+PgAdmin is commonly used as a database for a number of web applications. Keep posted on this list as more marketplace apps that are supported by PgAdmin are added.
